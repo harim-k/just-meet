@@ -1,0 +1,1 @@
+ssh -i "just_post_key.pem" ec2-user@ec2-13-231-167-200.ap-northeast-1.compute.amazonaws.com
